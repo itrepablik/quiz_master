@@ -22,3 +22,10 @@ Is a simple quiz master app using [Cobra CLI](https://github.com/spf13/cobra) wi
 
 5. Command to update the question, ```quiz_master update_question 1 "Test update" 25```, if the question number is not found, throw and error instead.
 ![image](https://user-images.githubusercontent.com/58651329/149919599-d0fce4dc-4756-42ed-9fe3-fba3946f7190.png)
+
+6. Command to display all questions information, ```quiz_master questions```
+![image](https://user-images.githubusercontent.com/58651329/149920304-108fe100-12b2-47c1-8974-d09399d840f8.png)
+
+7. Command to display a single question with inputs from the user's for their answer, ```quiz_master question 1```
+![image](https://user-images.githubusercontent.com/58651329/149920687-949bec13-c0ad-4bd6-9e65-7f09b87cd505.png)
+![image](https://user-images.githubusercontent.com/58651329/149920913-659eb7ea-012c-452c-85a0-1a3cf4112f1a.png)
