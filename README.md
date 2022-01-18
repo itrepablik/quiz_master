@@ -1,19 +1,13 @@
-![Tago](https://user-images.githubusercontent.com/58651329/80477734-0cfd4c00-897f-11ea-84f6-ce4fb6c495bb.png)
-Use **tago** to encrypt any classified text with secured random secret keys for the mixture to formulate the encrypted text and able to decrypt it with the same secret key when you need to extract the whole classified text back to a normal phrase.
+# Quiz Master App
+Is a simple quiz master app using ![Cobra CLI](https://github.com/spf13/cobra) with ![sqlite db](https://www.sqlite.org/index.html) for embedded local database storage for all the questions.
 
-# Installation
-```
-go get -u github.com/itrepablik/tago
-```
+# How to setup the quiz_master app?
+1. Clone this repo to your local machine and compile it accordingly based on your OS platform.
+2. If you have Make software installed, you can easily run it with this command "make build" or "make all" to setup, build, test
+3. If all is well, you can run the quiz_master app in your local machine.
 
-# Usage
-```
+# App Features
+1. Main app interface
+![image](https://user-images.githubusercontent.com/58651329/149915323-b7f0a1fb-ea43-4d1b-9562-8ac595d593b5.png)
 
-```
 
-# Subscribe to Maharlikans Code Youtube Channel:
-Please consider subscribing to my Youtube Channel to recognize my work on any of my tutorial series. Thank you so much for your support!
-https://www.youtube.com/c/MaharlikansCode?sub_confirmation=1
-
-# License
-Code is distributed under MIT license, feel free to use it in your proprietary projects as well.
