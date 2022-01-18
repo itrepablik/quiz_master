@@ -1,0 +1,14 @@
+{"level":"error","ts":1642484220.966065,"msg":"error creating question: Question no 3 already exists"}
+{"level":"error","ts":1642484871.1861951,"msg":"error creating question: error creating database and tables: \"\\\"unable to open database file: The system cannot find the path specified.\\\": \\n\\tCREATE TABLE IF NOT EXISTS questions (no integer not null primary key, question text, answer text);\\n\\t\""}
+{"level":"error","ts":1642484891.079785,"msg":"error creating question: error creating database and tables: \"\\\"unable to open database file: The system cannot find the path specified.\\\": \\n\\tCREATE TABLE IF NOT EXISTS questions (no integer not null primary key, question text, answer text);\\n\\t\""}
+{"level":"error","ts":1642484954.777216,"msg":"error creating question: Question no 4 already exists"}
+{"level":"error","ts":1642484957.0023437,"msg":"error creating question: Question no 4 already exists"}
+{"level":"error","ts":1642485252.5391667,"msg":"error creating question: Question no 4 already exists"}
+{"level":"panic","ts":1642485920.952442,"msg":"error deleting question: \"question no 4 is not exists\""}
+{"level":"panic","ts":1642485982.6810253,"msg":"error deleting question: \"question no 4 is not exists\""}
+{"level":"panic","ts":1642486033.6167629,"msg":"error deleting question: \"question no 4 is not exists\""}
+{"level":"error","ts":1642486097.0418503,"msg":"error deleting question: \"question no 4 is not exists\""}
+{"level":"warn","ts":1642486128.5916624,"msg":"Question no 4 was deleted"}
+{"level":"error","ts":1642486134.993939,"msg":"error deleting question: \"question no 4 is not exists\""}
+{"level":"error","ts":1642487533.439542,"msg":"error validating answer: \"error converting words to integer: invalid word\""}
+{"level":"error","ts":1642487559.6573014,"msg":"error validating answer: \"error converting words to integer: invalid word\""}

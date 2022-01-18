@@ -1,0 +1,30 @@
+{"level":"info","ts":1642131970.6648366,"msg":"database and tables created successfully if not exists%!(EXTRA *sql.DB=&{0 {./questions.db 0xc00009a020} 1 {0 0} [] map[] 0 0 0xc0001ba000 true map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x801ca0})"}
+{"level":"info","ts":1642132947.006583,"msg":"database and tables created successfully if not exists%!(EXTRA *sql.DB=&{0 {./questions.db 0xc000044040} 1 {0 0} [] map[] 0 0 0xc000054600 true map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x801ca0})"}
+{"level":"info","ts":1642132967.1611712,"msg":"database and tables created successfully if not exists%!(EXTRA *sql.DB=&{0 {./questions.db 0xc0000a4600} 1 {0 0} [] map[] 0 0 0xc00011d980 true map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x801ca0})"}
+{"level":"info","ts":1642133001.0195024,"msg":"database and tables created successfully if not exists%!(EXTRA *sql.DB=&{0 {./questions.db 0xc000044040} 1 {0 0} [] map[] 0 0 0xc0000549c0 true map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x801ca0})"}
+{"level":"info","ts":1642133139.8389523,"msg":"database and tables created successfully if not exists%!(EXTRA *sql.DB=&{0 {./questions.db 0xc0000a0020} 1 {0 0} [] map[] 0 0 0xc000094540 true map[] map[] 0 0 0 0 <nil> 0 0 0 0 0xd61ca0})"}
+{"level":"info","ts":1642133350.890923,"msg":"database and tables created successfully if not exists%!(EXTRA *sql.DB=&{0 {./questions.db 0xc0000a0020} 1 {0 0} [] map[] 0 0 0xc0000949c0 true map[] map[] 0 0 0 0 <nil> 0 0 0 0 0xb81ca0})"}
+{"level":"info","ts":1642133355.6783948,"msg":"database and tables created successfully if not exists%!(EXTRA *sql.DB=&{0 {./questions.db 0xc0000a0020} 1 {0 0} [] map[] 0 0 0xc000092a80 true map[] map[] 0 0 0 0 <nil> 0 0 0 0 0xb81ca0})"}
+{"level":"info","ts":1642133475.088587,"msg":"database and tables created successfully if not exists%!(EXTRA *sql.DB=&{0 {./questions.db 0xc000044040} 1 {0 0} [] map[] 0 0 0xc000048a80 true map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x861ca0})"}
+{"level":"panic","ts":1642133475.102941,"msg":"error beginning transaction: \"sql: database is closed\""}
+{"level":"info","ts":1642133524.0712705,"msg":"database and tables created successfully if not exists%!(EXTRA *sql.DB=&{0 {./questions.db 0xc0000a0020} 1 {0 0} [] map[] 0 0 0xc000086b40 true map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x861ca0})"}
+{"level":"panic","ts":1642133524.0854282,"msg":"error beginning transaction: \"sql: database is closed\""}
+{"level":"panic","ts":1642133540.177098,"msg":"error beginning transaction: \"sql: database is closed\""}
+{"level":"panic","ts":1642134002.925638,"msg":"error beginning transaction: \"sql: database is closed\""}
+{"level":"panic","ts":1642134285.3385556,"msg":"error beginning transaction: \"sql: database is closed\""}
+{"level":"panic","ts":1642134349.557294,"msg":"error inserting data: \"database is locked\""}
+{"level":"panic","ts":1642140377.4207096,"msg":"question no 1 already exists"}
+{"level":"error","ts":1642140497.1273513,"msg":"question no 1 already exists"}
+{"level":"panic","ts":1642140593.778032,"msg":"error querying data: \"sql: no rows in result set\""}
+{"level":"panic","ts":1642140799.0079305,"msg":"error inserting data: \"UNIQUE constraint failed: questions.no\""}
+{"level":"error","ts":1642140848.39329,"msg":"question no 1 already exists"}
+{"level":"error","ts":1642141146.1375968,"msg":"question no 1 already exists"}
+{"level":"error","ts":1642141751.4218242,"msg":"Question no 2 already exists"}
+{"level":"error","ts":1642141782.963185,"msg":"Question no 1 already exists"}
+{"level":"error","ts":1642142455.172519,"msg":"Question no 1 already exists"}
+{"level":"error","ts":1642142486.7395642,"msg":"Question no 11 is not exists"}
+{"level":"error","ts":1642143085.7112901,"msg":"error converting no to integer: strconv.Atoi: parsing \"sdfs\": invalid syntax"}
+{"level":"error","ts":1642143100.326841,"msg":"Question no 3 is not exists"}
+{"level":"error","ts":1642143116.43164,"msg":"Question no 2 is not exists"}
+{"level":"error","ts":1642144022.828345,"msg":"Question no 2 is not exists"}
+{"level":"warn","ts":1642145303.199064,"msg":"Question no 1 was deleted"}
