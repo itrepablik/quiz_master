@@ -1,5 +1,5 @@
 # Quiz Master App
-Is a simple quiz master app using ![Cobra CLI](https://github.com/spf13/cobra) with ![sqlite db](https://www.sqlite.org/index.html) for embedded local database storage for all the questions.
+Is a simple quiz master app using [Cobra CLI](https://github.com/spf13/cobra) with [sqlite db](https://www.sqlite.org/index.html) for embedded local database storage for all the questions.
 
 # How to setup the quiz_master app?
 1. Clone this repo to your local machine and compile it accordingly based on your OS platform.
